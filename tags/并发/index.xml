@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 刘奇的Blog</title>
-    <link>https://liuqi2016.github.io/post/</link>
-    <description>Recent content in Posts on 刘奇的Blog</description>
+    <title>并发 on 刘奇的Blog</title>
+    <link>https://liuqi2016.github.io/tags/%E5%B9%B6%E5%8F%91/</link>
+    <description>Recent content in 并发 on 刘奇的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 22:29:45 +0800</lastBuildDate><atom:link href="https://liuqi2016.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2022 22:29:45 +0800</lastBuildDate><atom:link href="https://liuqi2016.github.io/tags/%E5%B9%B6%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>golang并发编程实战一</title>
       <link>https://liuqi2016.github.io/post/golang%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/</link>
